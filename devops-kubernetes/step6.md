@@ -1,8 +1,8 @@
-Installed Resources
+## Task
 
 Show everything that was installed by Helm.
 
-`kubectl get all --namespace=artifactory`{execute}
+`kubectl get all --namespace=artifactory`{{execute}}
 
 ## Question
 

@@ -6,73 +6,75 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Create a Namespace for Artifactory",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Create a Namespace for Artifactory",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Install Artifactory with Helm",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Install Artifactory with Helm",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Installed Resources",
         "text": "step5.md"
       },
       {
-        "title": "Step 6",
+        "title": "Installed Resources",
         "text": "step6.md"
       },
       {
-        "title": "Step 7",
+        "title": "Status of the Pods",
         "text": "step7.md"
       },
       {
-        "title": "Step 8",
+        "title": "Status of the Pods",
         "text": "step8.md"
       },
       {
-        "title": "Step 9",
+        "title": "Investigate NGINX",
         "text": "step9.md"
       },
       {
-        "title": "Step 10",
+        "title": "Investigate NGINX",
         "text": "step10.md"
       },
       {
-        "title": "Step 11",
+        "title": "Investigate Artifactory and Postgres",
         "text": "step11.md"
       },
       {
-        "title": "Step 12",
+        "title": "Investigate Artifactory and Postgres",
         "text": "step12.md"
       },
       {
-        "title": "Step 13",
+        "title": "Investigate Storage",
         "text": "step13.md"
       },
       {
-        "title": "Step 14",
+        "title": "Investigate Storage",
         "text": "step14.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "credits": ""
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nCheck Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "kubernetes-cluster-running:1.18"
   }
 }

@@ -1,8 +1,8 @@
-Investigate Storage
+## Task
 
 Investigate the PersistentVolumeClaims.
 
-`kubectl get pvc --namespace=artifactory`{execute}
+`kubectl get pvc --namespace=artifactory`{{execute}}
 
 ## Question
 

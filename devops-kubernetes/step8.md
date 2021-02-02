@@ -1,8 +1,8 @@
-Status of the Pods
+## Task
 
 Show the status of the pods.
 
-`kubectl get pods --namespace=artifactory`{execute}
+`kubectl get pods --namespace=artifactory`{{execute}}
 
 ## Question
 

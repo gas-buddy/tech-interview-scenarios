@@ -1,5 +1,3 @@
-# Create a Namespace for Artifactory
-
 ## Task
 
 You can create the namespace with the following command.
