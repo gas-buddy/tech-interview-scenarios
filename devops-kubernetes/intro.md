@@ -7,4 +7,5 @@ In this interview, you will be tested on your knowledge of Kubernetes. The tasks
 You will be asked to perform the following:
 
 • Install Artifactory OSS using Helm
+
 • Check the various components of the application.
