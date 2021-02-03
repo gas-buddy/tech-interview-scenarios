@@ -2,7 +2,7 @@
 
 Launch Kubernetes cluster by running this script:
 
-`launch.sh`{{launch.sh}}
+`launch.sh`{{execute}}
 
 ## Question:
 
